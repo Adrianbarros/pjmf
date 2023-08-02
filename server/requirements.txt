@@ -1,0 +1,4 @@
+flask
+requests
+xmltodict
+flask_cors
